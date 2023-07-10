@@ -1,0 +1,8 @@
+venv
+result
+.idea
+log.html
+output.xml
+report.html
+hello.robot
+main.py
