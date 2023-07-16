@@ -48,7 +48,6 @@ Test 2
 
 Test 3
     [Tags]    test3
-    ${fruit} =  Set Variable  Apple
     ${search_letter} =  Set Variable  E
     @{fruites_with_letter_e}  Create List
     FOR   ${fruit}  IN  @{ten_fruits}
