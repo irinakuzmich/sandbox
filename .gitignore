@@ -6,3 +6,4 @@ output.xml
 report.html
 hello.robot
 main.py
+__pycache__/helpers.cpython-311.pyc

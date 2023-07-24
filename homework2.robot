@@ -57,4 +57,4 @@ Test 3
         END
     END
 
-    Log To Console      \n Fruites with letter 'E':${fruites_with_letter_e}
+    Log To Console      \n Fruites with letter 'E':${fruit}
