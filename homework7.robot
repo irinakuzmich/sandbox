@@ -14,7 +14,6 @@ Library    SeleniumLibrary
 
 *** Variables ***
 ${IMDB_URL}       https://www.imdb.com
-${SEARCH_TERM}    The Godfather
 
 *** Test Cases ***
 Search for Top 10 Movies on IMDb
